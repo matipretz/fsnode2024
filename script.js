@@ -28,6 +28,9 @@ document.addEventListener("DOMContentLoaded", function () {
   document.getElementById("viewlink4").addEventListener("click", function () {
     viewShow("view4");
   });
+  document.getElementById("viewlink5").addEventListener("click", function () {
+    viewShow("view5");
+  });
 
   viewShow("view1");
 });
