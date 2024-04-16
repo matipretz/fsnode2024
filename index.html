@@ -22,43 +22,41 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <nav class="navbar navbar-dark navbar-expand-lg bg-dark mt-0 fixed-top" aria-label="Thirteenth navbar example">
-        <div class="container-fluid">
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample11"
-                aria-controls="navbarsExample11" aria-expanded="false" aria-label="Toggle navigation">
+    <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#" id="viewlink1">Node.js CaC 4.0</a>
+            <button class="navbar-toggler d-lg-none" type="button" data-bs-toggle="collapse"
+                data-bs-target="#collapsibleNavId" aria-controls="collapsibleNavId" aria-expanded="false"
+                aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-
-            <div class="collapse navbar-collapse d-lg-flex bg-dark p-3" id="navbarsExample11">
-                <a class="navbar-brand col-lg-3 me-0" id="viewlink1" href="#">Fullstack Node.js Codo a Codo 4.0 2024</a>
-                <ul class="navbar-nav col-lg-6 justify-content-lg-center">
-
+            <div class="collapse navbar-collapse" id="collapsibleNavId">
+                <ul class="navbar-nav me-auto mt-2 mt-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link" href="#" id="viewlink3">Playlist</a>
+                        <a class="nav-link" href="#" aria-current="page" id="viewlink3">Playlist
+                            <span class="visually-hidden">(current)</span></a>
                     </li>
-
-                    <li class="nav-item dropdown ">
-                        <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown"
-                            aria-expanded="false">Contenidos</a>
-                        <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="#" id="viewlink2">Clases</a></li>
-                            <li><a class="dropdown-item" href="#" id="viewlink5">Habilidades Blandas</a>
-                            </li>
-
-                        </ul>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="dropdownId" data-bs-toggle="dropdown"
+                            aria-haspopup="true" aria-expanded="false">Contenidos</a>
+                        <div class="dropdown-menu" aria-labelledby="dropdownId">
+                            <a class="dropdown-item" href="#" id="viewlink2">Clases</a>
+                            <a class=" dropdown-item" href="#" id="viewlink5">Habilidades Blandas</a>
+                        </div>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#" id="viewlink4">Links</a>
                     </li>
+                    <li>
+                            <button class="btn btn-light"><a href="https://github.com/matipretz/fsnode2024/"
+                                    title="Repositorio" target="_blank"><img height="24" width="24"
+                                        src="https://cdn.simpleicons.org/github/black" /></a></button>
+                    </li>
                 </ul>
-                <div class="d-lg-flex col-lg-3 justify-content-lg-end">
-                    <button class="btn btn-light"><a href="https://github.com/matipretz/fsnode2024/" title="Repositorio"
-                            target="_blank"><img height="24" width="24"
-                                src="https://cdn.simpleicons.org/github/black" /></a></button>
-                </div>
             </div>
         </div>
     </nav>
+
     <main class="">
         <!-- INDEX -->
         <div class="view" id="view1">
