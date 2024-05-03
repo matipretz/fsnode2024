@@ -1,0 +1,82 @@
+{
+    "nombreGrupo": "Videos",
+    "archivos": [
+      {
+        "titulo": "[Playlist]",
+        "url": "https://www.youtube.com/playlist?list=PLylR60V6nSTvLGTpKRThkCB4pZqffxDUZ"
+      },
+      {
+        "titulo": "27/02/2024 - Clase 00 - Presentación del curso.",
+        "url": "https://www.youtube.com/watch?v=us73A_noq8o"
+      },
+      {
+        "titulo": "29/02/2024 - Clase 0b - Presentación del curso.",
+        "url": "https://www.youtube.com/watch?v=fy9mXuEANeU"
+      },
+      {
+        "titulo": "05/03/2024 - Clase 01 - Conceptos básicos de HTML.",
+        "url": "https://www.youtube.com/watch?v=jOve4sstn-g"
+      },
+      {
+        "titulo": "07/03/2024 - Clase 02 - Conceptos básicos de HTML bis.",
+        "url": "https://www.youtube.com/watch?v=8tRMvm3NmvE"
+      },
+      {
+        "titulo": "12/03/2024 - Clase 03 - Conceptos básicos de HTML bis.",
+        "url": "https://www.youtube.com/watch?v=KNQkGJK-U4o"
+      },
+      {
+        "titulo": "14/03/2024 - Clase 04 - Formularios y subida al servidor.",
+        "url": "https://www.youtube.com/watch?v=qA3F0LcdkrA"
+      },
+      {
+        "titulo": "19/03/2024 - Clase 05 - Introducción a CSS.",
+        "url": "https://www.youtube.com/watch?v=FZ-qsmSJHoA"
+      },
+      {
+        "titulo": "21/03/2024 - Clase 06 - Medidas, colores, fondos, fuentes e íconos.",
+        "url": "https://www.youtube.com/watch?v=0trrPily5ZY"
+      },
+      {
+        "titulo": "26/03/2024 - Clase 07 - Modelo de caja y posicionamiento.",
+        "url": "https://www.youtube.com/watch?v=tyVqY7kv_KQ"
+      },
+      {
+        "titulo": "04/04/2024 - Clase 08 - Selectores avanzados y Animaciones.",
+        "url": "https://www.youtube.com/watch?v=dVr0APcbFA"
+      },
+      {
+        "titulo": "09/04/2024 - Clase 09 - Flexbox.",
+        "url": "https://www.youtube.com/watch?v=nelFwJPj-SA"
+      },
+      {
+        "titulo": "11/04/2024 - Clase 10 - CSS Grid.",
+        "url": "https://www.youtube.com/watch?v=aKN9QtBBRi8"
+      },
+      {
+        "titulo": "16/04/2024 - Clase 11 - Bootstrap.",
+        "url": "https://www.youtube.com/watch?v=lam59CiBIBo"
+      },
+      {
+        "titulo": "Async. - Clase 12 - GIT & GitHub.",
+        "url": "https://www.youtube.com/watch?v=UGX3pcZNfoQ"
+      },
+      {
+        "titulo": "18/04/2024 - Clase 13 - JavaScript 1.",
+        "url": "https://www.youtube.com/watch?v=AFS1HF_mLF8"
+      },
+      {
+        "titulo": "23/04/2024 - Clase 14 - JavaScript 2.",
+        "url": "https://www.youtube.com/watch?v=LBllCIFEkxc"
+      },
+      {
+        "titulo": "25/04/2024 - Clase 15 - JavaScript 3.",
+        "url": "https://www.youtube.com/watch?v=eoc6kYuBVV8"
+      },
+      {
+        "titulo": "30/04/2024 - Clase 16 - JavaScript 4.",
+        "url": "https://www.youtube.com/watch?v=EHxAYKotK90"
+      }
+    ]
+  }
+  

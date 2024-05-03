@@ -71,3 +71,6 @@ a:hover {
 ul li.last {
   text-align: right;
 }
+.view{ 
+  display: none;
+}

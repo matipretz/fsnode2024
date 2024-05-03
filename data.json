@@ -1,0 +1,52 @@
+{
+  "0.Presentacion": [
+    "Clase 0",
+    "Guia del estudiante 2024",
+    "Plan de estudios- estudiantes- Full Stack Node JS 2024"
+  ],
+  "1.HTML": [
+    "Clase 01. HTML 1",
+    "Clase 02. HTML 2",
+    "Clase 03. HTML 3",
+    "Clase 04. HTML 4"
+  ],
+  "2.CSS": [
+    "Clase 05. CSS 1",
+    "Clase 06. CSS 2",
+    "Clase 07. CSS 3",
+    "Clase 08. CSS 4",
+    "Clase 09. CSS 5",
+    "Clase 10. CSS 6"
+  ],
+  "3.JS": [
+    "Clase 13. JS 1",
+    "Clase 14. JS 2",
+    "Clase 15. JS 3",
+    "Clase 16. JS 4",
+    "Clase 17. JS 5",
+    "Clase 18. JS 6"
+  ],
+  "Especial": [
+    "Clase 11. Bootstrap",
+    "Clase 12. GIT",
+    "Clase especial. Scrum"
+  ],
+  "Habilidades blandas": [
+    "0 - Habilidades blandas - Introducción",
+    "1 - Habilidades blandas - Trabajo en equipo",
+    "2 - Habilidades blandas - Resolución de conflictos",
+    "3 - Habilidades blandas - Comunicación",
+    "4 - Habilidades blandas - Adaptabilidad",
+    "5 - Habilidades blandas - Habilidades para buscar empleo"
+  ],
+  "Metodologias Agiles Fundación Telefonica": [
+    "Metodologias Agiles (1)",
+    "Metodologias Agiles (2)",
+    "Metodologias Agiles (3)",
+    "Metodologias Agiles (4)",
+    "Metodologias Agiles (5)",
+    "Metodologias Agiles (6)",
+    "Metodologias Agiles (7)",
+    "Metodologias Agiles (8)"
+  ]
+}
