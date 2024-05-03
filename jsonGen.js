@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const rutaCarpetaSuperior = './docs'; // Ruta de la carpeta superior que deseas recorrer
-const archivoJSON = 'data.json'; // Nombre del archivo JSON a generar
+const archivoJSON = 'data/clases.json'; // Nombre del archivo JSON a generar
 
 // Lee el contenido de la carpeta superior
 fs.readdir(rutaCarpetaSuperior, (err, carpetas) => {

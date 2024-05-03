@@ -1,0 +1,86 @@
+[
+    {
+        "nombreGrupo": "Links de interés:",
+        "archivos": [
+            {
+                "titulo": "GitHub",
+                "url": "https://github.com/"
+            },
+            {
+                "titulo": "Stack Overflow",
+                "url": "https://stackoverflow.com/"
+            },
+            {
+                "titulo": "W3 Schools",
+                "url": "https://www.w3schools.com/"
+            },
+            {
+                "titulo": "mdn",
+                "url": "https://developer.mozilla.org/"
+            }
+        ]
+    },
+    {
+        "nombreGrupo": "Herramientas:",
+        "archivos": [
+            {
+                "titulo": "Visual Studio Code",
+                "url": "https://code.visualstudio.com/"
+            },
+            {
+                "titulo": "GIT",
+                "url": "https://git-scm.com/"
+            }
+        ]
+    },
+    {
+        "nombreGrupo": "Editores en linea:",
+        "archivos": [
+            {
+                "titulo": "CodePen",
+                "url": "https://codepen.io/"
+            },
+            {
+                "titulo": "React Playground",
+                "url": "https://playcode.io/react"
+            }
+        ]
+    },
+    {
+        "nombreGrupo": "Stack:",
+        "archivos": [
+            {
+                "titulo": "HTML",
+                "url": "https://developer.mozilla.org/es/docs/Web/HTML/"
+            },
+            {
+                "titulo": "CSS",
+                "url": "https://developer.mozilla.org/es/docs/Web/CSS"
+            },
+            {
+                "titulo": "Bootstrap",
+                "url": "https://getbootstrap.com/"
+            },
+            {
+                "titulo": "JavaScript",
+                "url": "https://developer.mozilla.org/es/docs/Web/JavaScript"
+            },
+            {
+                "titulo": "Node.js",
+                "url": "https://nodejs.org/"
+            },
+            {
+                "titulo": "Express.js",
+                "url": "https://expressjs.com/"
+            },
+            {
+                "titulo": "React",
+                "url": "https://react.dev/"
+            },
+            {
+                "titulo": "MongoDB",
+                "url": "https://mongodb.com/"
+            }
+        ]
+    }
+]
