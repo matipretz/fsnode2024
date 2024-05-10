@@ -1,4 +1,4 @@
-{
+  {
     "nombreGrupo": "Videos",
     "archivos": [
       {
@@ -76,7 +76,18 @@
       {
         "titulo": "30/04/2024 - Clase 16 - JavaScript 4.",
         "url": "https://www.youtube.com/watch?v=EHxAYKotK90"
+      },
+      {
+        "titulo": "02/05/2024 - Clase 17 - JavaScript 5.",
+        "url": "https://www.youtube.com/watch?v=r8HN7tNdNpI"
+      },
+      {
+        "titulo": "07/05/2024 - Clase 18 - JavaScript 6.",
+        "url": "https://www.youtube.com/watch?v=X0pFk9KBhAA"
+      },
+      {
+        "titulo": "09/05/2024 - Clase 19 - JavaScript 7.",
+        "url": "https://www.youtube.com/watch?v="
       }
     ]
   }
-  

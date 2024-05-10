@@ -1,0 +1,65 @@
+  {
+    "nombreGrupo": "Libros",
+    "archivos": [
+      {
+        "titulo": "Aprendiendo Git.",
+        "url": "https://mega.nz/file/brxxSARD#oeWnDGCae4VCc5j2oLbLOpnVZBD2CkTdVLlBahbuoQw"
+      },
+      {
+        "titulo": "Building large scale web apps.",
+        "url": "https://mega.nz/file/H3pFSSJZ#6CUrkdinq-hc_Iy6ycVUgEKha7FkQ2osRl3q1JQ8bqE"
+      },
+      {
+        "titulo": "Fluent React.",
+        "url": "https://mega.nz/file/bn4Q2aJT#8IFJUXe62fChkvaKMe4cVIsJU_wBBe6fSaJg3rondCI"
+      },
+      {
+        "titulo": "How JavaScript Works Master the Basics of JavaScript and Modern Web App Development.",
+        "url": "https://mega.nz/file/6vRj1Z4S#2ksUtVsHPT6M0FAMK9N_lJUY4MLBzUiBoROPvsyCBls"
+      },
+      {
+        "titulo": "Kill It with Fire.",
+        "url": "https://mega.nz/file/e3AT3CqK#rpauZqqyJNrw7rsh0Mg6KhcSJ0WEfkWPsKx5Tfa05yA"
+      },
+      {
+        "titulo": "Learning GitHub Actions.",
+        "url": "https://mega.nz/file/v7BB0YKI#R2cq8htnxsazXkcOnSfMX5kZASyvluYjgj6EZldabD8"
+      },
+      {
+        "titulo": "Learning Patterns.",
+        "url": "https://mega.nz/file/67wFiB4K#qzm-54jCTJpLnTyThtoqEK_HrxXXVqlSavxqgB5slXw"
+      },
+      {
+        "titulo": "Learning TypeScript.",
+        "url": "https://mega.nz/file/jyBhnLqJ#5BdVwVGW4hWJYJnCeblJtEGz3OVoI8OVK-MFNc6QwiE"
+      },
+      {
+        "titulo": "React Application Architecture for Production.",
+        "url": "https://mega.nz/file/7vIxGS7a#NiXRcglzNGPoRNmYHKWoDmNSw3eux1FbP4-frRoeBFo"
+      },
+      {
+        "titulo": "Refactoring UI.",
+        "url": "https://mega.nz/file/3uxlzCLa#ray6DrpKB9g_5BKMBmR5ul6RLhgPmJgBVFWA2Y2TWgs"
+      },
+      {
+        "titulo": "Soft Skills The Software Developer’s Life Manual.",
+        "url": "https://mega.nz/file/ey5mDYBD#hpdwUaf49DN71a3njCvlr349ExK9KHEu5aeuHx-o8S0"
+      },
+      {
+        "titulo": "The Pragmatic Programmer Your Journey to Mastery.",
+        "url": "https://mega.nz/file/yvpnnCLC#ZQg1pe4638DtgTOQiwoL7lDXVc4DKYxiBg3ZCyDt3_4"
+      },
+      {
+        "titulo": "TypeScript Basics.",
+        "url": "https://mega.nz/file/ey5mDYBD#hpdwUaf49DN71a3njCvlr349ExK9KHEu5aeuHx-o8S0"
+      },
+      {
+        "titulo": "Understanding Astro",
+        "url": "https://mega.nz/file/e2xTgJID#vEaqcXPDnxiCkZT3huQKqFJ_7EMa_z2-i0NXc4fkSkw"
+      },
+      {
+        "titulo": "Web Application Security",
+        "url": "https://mega.nz/file/irAHhTKL#mSFsEbamn_7N-trsh1lf_9k0nNqfMlqyfI9tY-TM2_s"
+      }
+    ]
+  }
