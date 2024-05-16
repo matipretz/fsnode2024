@@ -82,5 +82,30 @@
                 "url": "https://mongodb.com/"
             }
         ]
+    },
+    {
+        "nombreGrupo": "Despliegue:",
+        "archivos": [
+            {
+                "titulo": "Vercel",
+                "url": "https://vercel.com/home"
+            },
+            {
+                "titulo": "Netlify",
+                "url": "https://www.netlify.com/"
+            },
+            {
+                "titulo": "Render",
+                "url": "https://render.com/"
+            },
+            {
+                "titulo": "Fly",
+                "url": "https://fly.io/"
+            },
+            {
+                "titulo": "GitHub Pages",
+                "url": "https://pages.github.com/"
+            }
+        ]
     }
 ]
