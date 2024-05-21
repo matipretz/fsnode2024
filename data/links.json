@@ -45,6 +45,18 @@
                 "url": "https://playcode.io/react"
             }
         ]
+    },{
+        "nombreGrupo": "Herramientas BBDD:",
+        "archivos": [
+            {
+                "titulo": "XAMPP",
+                "url": "https://www.apachefriends.org/es/index.html"
+            },
+            {
+                "titulo": "DBeaver",
+                "url": "https://dbeaver.io/download/"
+            }
+        ]
     },
     {
         "nombreGrupo": "Stack:",
