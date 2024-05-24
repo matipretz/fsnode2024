@@ -18,6 +18,11 @@
     "Clase 09. CSS 5",
     "Clase 10. CSS 6"
   ],
+  "2.Especial": [
+    "Clase 11. Bootstrap",
+    "Clase 12. GIT",
+    "Clase especial. Scrum"
+  ],
   "3.JS": [
     "Clase 13. JS 1",
     "Clase 14. JS 2",
@@ -38,28 +43,5 @@
     "Clase 22. SQL 1",
     "Clase 23. SQL 2",
     "Clase 24. SQL 3"
-  ],
-  "Especial": [
-    "Clase 11. Bootstrap",
-    "Clase 12. GIT",
-    "Clase especial. Scrum"
-  ],
-  "Habilidades blandas": [
-    "0 - Habilidades blandas - Introducción",
-    "1 - Habilidades blandas - Trabajo en equipo",
-    "2 - Habilidades blandas - Resolución de conflictos",
-    "3 - Habilidades blandas - Comunicación",
-    "4 - Habilidades blandas - Adaptabilidad",
-    "5 - Habilidades blandas - Habilidades para buscar empleo"
-  ],
-  "Metodologias Agiles Fundación Telefonica": [
-    "Metodologias Agiles (1)",
-    "Metodologias Agiles (2)",
-    "Metodologias Agiles (3)",
-    "Metodologias Agiles (4)",
-    "Metodologias Agiles (5)",
-    "Metodologias Agiles (6)",
-    "Metodologias Agiles (7)",
-    "Metodologias Agiles (8)"
   ]
 }

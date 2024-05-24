@@ -1,0 +1,27 @@
+{
+  "Habilidades blandas": [
+    "0 - Habilidades blandas - Introducción",
+    "1 - Habilidades blandas - Trabajo en equipo",
+    "2 - Habilidades blandas - Resolución de conflictos",
+    "3 - Habilidades blandas - Comunicación",
+    "4 - Habilidades blandas - Adaptabilidad",
+    "5 - Habilidades blandas - Habilidades para buscar empleo"
+  ],
+  "Majo Ledesma": [
+    "GIT",
+    "Hooks",
+    "JS",
+    "React",
+    "SQL"
+  ],
+  "Metodologias Agiles Fundación Telefonica": [
+    "Metodologias Agiles (1)",
+    "Metodologias Agiles (2)",
+    "Metodologias Agiles (3)",
+    "Metodologias Agiles (4)",
+    "Metodologias Agiles (5)",
+    "Metodologias Agiles (6)",
+    "Metodologias Agiles (7)",
+    "Metodologias Agiles (8)"
+  ]
+}
