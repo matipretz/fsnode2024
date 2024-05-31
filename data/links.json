@@ -30,6 +30,14 @@
             {
                 "titulo": "GIT",
                 "url": "https://git-scm.com/"
+            },
+            {
+                "titulo": "nvm-windows (node-version-manager",
+                "url": "https://github.com/coreybutler/nvm-windows"
+            },
+            {
+                "titulo": "Cmder",
+                "url": "https://cmder.app/"
             }
         ]
     },
@@ -45,7 +53,8 @@
                 "url": "https://playcode.io/react"
             }
         ]
-    },{
+    },
+    {
         "nombreGrupo": "Herramientas BBDD:",
         "archivos": [
             {
@@ -113,6 +122,14 @@
             {
                 "titulo": "Fly",
                 "url": "https://fly.io/"
+            },
+            {
+                "titulo": "Supabase",
+                "url": "https://supabase.com/"
+            },
+            {
+                "titulo": "Railway",
+                "url": "https://railway.app/"
             },
             {
                 "titulo": "GitHub Pages",
