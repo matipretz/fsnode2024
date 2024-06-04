@@ -21,7 +21,8 @@
   "2.Especial": [
     "Clase 11. Bootstrap",
     "Clase 12. GIT",
-    "Clase especial. Scrum"
+    "Clase especial. Scrum",
+    "Patrones de Arquitectura - MVC vs REST"
   ],
   "3.JS": [
     "Clase 13. JS 1",
@@ -45,6 +46,8 @@
     "Clase 24. SQL 3"
   ],
   "6.NodeJS": [
-    "Clase 25. Introducción a node"
+    "Clase 25. Introducción a node",
+    "Clase 26. Node - Gestores de paquetes",
+    "Clase 27. Node - Express"
   ]
 }
