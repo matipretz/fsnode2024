@@ -38,7 +38,12 @@
             {
                 "titulo": "Cmder",
                 "url": "https://cmder.app/"
+            },
+            {
+                "titulo": "Postman",
+                "url": "https://www.postman.com/"
             }
+            
         ]
     },
     {
@@ -130,6 +135,10 @@
             {
                 "titulo": "Railway",
                 "url": "https://railway.app/"
+            },
+            {
+                "titulo": "Filess",
+                "url": "https://filess.io/"
             },
             {
                 "titulo": "GitHub Pages",
