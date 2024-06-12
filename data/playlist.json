@@ -2,8 +2,12 @@
     "nombreGrupo": "Videos",
     "archivos": [
       {
-        "titulo": "[Playlist]",
+        "titulo": "[Playlist - Clases de regulares]",
         "url": "https://www.youtube.com/playlist?list=PLylR60V6nSTvLGTpKRThkCB4pZqffxDUZ"
+      },
+      {
+        "titulo": "[Playlist - Clases de apoyo]",
+        "url": "https://www.youtube.com/playlist?list=PLCL4VN3IMxOTqBIvTV191gTdIjt5Ym73n"
       },
       {
         "titulo": "27/02/2024 - Clase 00 - Presentación del curso.",
@@ -112,6 +116,17 @@
       {
         "titulo": "30/05/2024 - Clase 25 - Introducción a node.",
         "url": "https://www.youtube.com/watch?v=YILFF-raB8k"
+      },
+      {
+        "titulo": "04/06/2024 - Clase 26 - Node 2.",
+        "url": "https://www.youtube.com/watch?v=hkUXuyO5UPg"
+      },
+      {
+        "titulo": "06/06/2024 - Clase 27 - Node 3.",
+        "url": "https://www.youtube.com/watch?v=ES6Vk9kddsA"
+      },    {
+        "titulo": "11/06/2024 - Clase 28 - Node 4.",
+        "url": "https://www.youtube.com/watch?v=Aw3ay02L9_0"
       }
     ]
   }
