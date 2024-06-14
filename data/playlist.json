@@ -124,9 +124,18 @@
       {
         "titulo": "06/06/2024 - Clase 27 - Node 3.",
         "url": "https://www.youtube.com/watch?v=ES6Vk9kddsA"
-      },    {
+      },
+      {
         "titulo": "11/06/2024 - Clase 28 - Node 4.",
         "url": "https://www.youtube.com/watch?v=Aw3ay02L9_0"
+      },
+      {
+        "titulo": "13/06/2024 - Clase 29 - Node 5.",
+        "url": "https://www.youtube.com/watch?v=WloCiVsjCo4"
+      },
+      {
+        "titulo": "Clase Deploy y Variables de entorno (Render & FreeSQLDatabase).",
+        "url": "https://www.youtube.com/watch?v=_d_ooW1YMGs"
       }
     ]
   }
